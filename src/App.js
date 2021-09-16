@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import Categories from "./Categories";
 import items from "./data";
 import Menu from "./Menu";
